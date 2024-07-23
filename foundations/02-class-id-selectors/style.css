@@ -1,0 +1,19 @@
+.odd_elements {
+    background: pink;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.odd_elements.extra {
+    font-size: 24px;
+}
+
+#second_element {
+    color: blue;
+    font-size: 36px;
+}
+
+.fourth_element {
+    background: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
