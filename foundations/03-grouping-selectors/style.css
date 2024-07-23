@@ -1,0 +1,22 @@
+.first {
+    background: black;
+    color: white;
+}
+
+.second {
+    background: yellow;
+}
+
+ .both {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman","sans-serif";
+}
+
+
+/* Recommended Solution for grouping selectors for shared elements */
+/* 
+.first,
+.second {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman","sans-serif";
+} */
